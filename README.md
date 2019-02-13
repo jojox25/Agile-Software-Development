@@ -1,8 +1,5 @@
-Assignment 1
+Assignment 1: Software Engineering Article
 ------------
-
-The Article
------------
 The article I used was [What I Learned in My First Two Years as a Software Engineer](https://blog.usejournal.com/what-i-learned-in-my-first-two-years-as-a-software-engineer-4e374fdcf0fd).
 
 I thought this was a *particularly* interesting article because it was someone's personal experience as a young software engineer entering the workforce right after college. The author learned a handful of good lessons that *I* found helpful, since I am considering a job in the same path.
