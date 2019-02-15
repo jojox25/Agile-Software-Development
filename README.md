@@ -9,3 +9,11 @@ The **first lesson** he learned was basically to acknowledge that your work-life
 
 Thank you for reading!
 ---------------------
+
+This was a great article! One of my favorite lessons he presented was:
+
+*Lesson 3: It is the mark of a great problem solver to ask many questions before beginning to think about a solution*
+
+This lesson is really important and I think many people forget that it's infact a *good* thing to ask a lot of questions. It means that you are actually thinking about something as opposed to not actively thinking at all. Thanks for this great article!
+
+Comment made by: Josephine Floyd 
